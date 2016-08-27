@@ -63,4 +63,4 @@ Contributors
 [3]:https://raw.githubusercontent.com/IBMPredictiveAnalytics/ClusterMaps_with_Seaborn/master/SeabornClusterMap.mpe
 [4]:https://stanford.edu/~mwaskom/software/seaborn/index.html
 [5]:https://raw.githubusercontent.com/IBMPredictiveAnalytics/ClusterMaps_with_Seaborn/master/example/example.str
-[6]:https://raw.githubusercontent.com/IBMPredictiveAnalytics/ClusterMaps_with_Seaborn/master/example/DRUG1n.csv
+[6]:https://raw.githubusercontent.com/IBMPredictiveAnalytics/ClusterMaps_with_Seaborn/master/example/adult.csv
